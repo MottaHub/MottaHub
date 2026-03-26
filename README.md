@@ -5,6 +5,10 @@
 Sou Técnico em Informática formado pela IENH (2025) e atualmente cursando Ciências da Computação na Unisinos (2026-atual). Sou apaixonado por tecnologia e desenvolvimento de software, com foco em soluções práticas e aprendizado constante. Durante minha formação, desenvolvi projetos de programação e banco de dados, incluindo um sistema ERP próprio utilizando Flask, JavaScript e MySQL, que me permitiu aplicar conhecimentos de back-end, front-end e integração com banco de dados. Sou comprometido, rápido para aprender novas tecnologias e gosto de trabalhar em equipe. Além da formação formal, busco atualização contínua através de cursos online e projetos práticos.
 </p>
 
+<p align="left">
+Além disso, possuo inglês em nível avançado (EF SET 68/100 – C1) e espanhol intermediário. Estudei inglês por dois anos na KNN Idiomas (Ivoti/RS) e continuo aprimorando minhas habilidades para leitura, escrita e comunicação.
+</p>
+
 <h3 align="left">Objetivo Profissional</h3>
 <p align="left">
 Estou em busca de oportunidades em desenvolvimento de software e infraestrutura, onde eu possa aplicar meus conhecimentos, aprender novas tecnologias e contribuir com soluções eficientes e inovadoras.
@@ -46,13 +50,13 @@ Estou em busca de oportunidades em desenvolvimento de software e infraestrutura,
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/bruno-boesing/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.linkedin.com/in/bruno-da-motta-boesing-42b5472b6/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="linkedin" width="40" height="40"/> 
   </a>
-  <a href="mailto:brunoboesing@example.com" target="_blank" rel="noreferrer"> 
+  <a href="mailto:brunomottaboesing@gmail.com" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="email" width="40" height="40"/> 
   </a>
-  <a href="https://wa.me/5551999999999" target="_blank" rel="noreferrer"> 
+  <a href="https://wa.me/5551993741495" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="whatsapp" width="40" height="40"/> 
   </a>
 </p>
