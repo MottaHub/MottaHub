@@ -2,12 +2,12 @@
 <h3 align="center">Técnico em Informática | Estudante de Ciências da Computação</h3>
 
 <p align="left">
-Sou Técnico em Informática formado pela IENH (2025) e atualmente cursando Ciências da Computação na Unisinos (2026-atual). Desde cedo sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando soluções inovadoras e boas práticas de programação. Durante minha formação técnica, desenvolvi projetos práticos que fortaleceram minhas habilidades em programação, banco de dados e experiência do usuário (UX/UI). Sou comprometido, com facilidade para aprender novas tecnologias e trabalhar em equipe, sempre focado em evolução profissional. Além da formação formal, realizo cursos complementares, como Fundamentos de TI pela Fundação Bradesco, e estudo continuamente para aprimorar meus conhecimentos em linguagens modernas e frameworks.
+Sou Técnico em Informática formado pela IENH (2025) e atualmente cursando Ciências da Computação na Unisinos (2026-atual). Sou apaixonado por tecnologia e desenvolvimento de software, com foco em soluções práticas e aprendizado constante. Durante minha formação, desenvolvi projetos de programação e banco de dados, incluindo um sistema ERP próprio utilizando Flask, JavaScript e MySQL, que me permitiu aplicar conhecimentos de back-end, front-end e integração com banco de dados. Sou comprometido, rápido para aprender novas tecnologias e gosto de trabalhar em equipe. Além da formação formal, busco atualização contínua através de cursos online e projetos práticos.
 </p>
 
 <h3 align="left">Objetivo Profissional</h3>
 <p align="left">
-Busco oportunidades na área de TI, com foco em desenvolvimento de software e infraestrutura, que me permitam crescer profissionalmente e contribuir com soluções eficientes e inovadoras.
+Estou em busca de oportunidades em desenvolvimento de software e infraestrutura, onde eu possa aplicar meus conhecimentos, aprender novas tecnologias e contribuir com soluções eficientes e inovadoras.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
