@@ -2,11 +2,7 @@
 <h3 align="center">Técnico em Informática | Estudante de Ciências da Computação</h3>
 
 <p align="left">
-Sou Técnico em Informática formado pela IENH (2025) e atualmente cursando Ciências da Computação na Unisinos (2026-atual). Sou apaixonado por tecnologia e desenvolvimento de software, com foco em soluções práticas e aprendizado constante. Durante minha formação, desenvolvi projetos de programação e banco de dados, incluindo um sistema ERP próprio utilizando Flask, JavaScript e MySQL, que me permitiu aplicar conhecimentos de back-end, front-end e integração com banco de dados. Sou comprometido, rápido para aprender novas tecnologias e gosto de trabalhar em equipe. Além da formação formal, busco atualização contínua através de cursos online e projetos práticos.
-</p>
-
-<p align="left">
-Além disso, possuo inglês em nível avançado (EF SET 68/100 – C1) e espanhol intermediário. Estudei inglês por dois anos na KNN Idiomas (Ivoti/RS) e continuo aprimorando minhas habilidades para leitura, escrita e comunicação.
+Sou Técnico em Informática formado pela IENH (2025) e atualmente cursando Ciências da Computação na Unisinos (2026-atual). Sou apaixonado por tecnologia e desenvolvimento de software, com foco em soluções práticas e aprendizado constante. Durante minha formação, desenvolvi projetos de programação e banco de dados, incluindo um sistema ERP próprio utilizando Flask, JavaScript e MySQL, que me permitiu aplicar conhecimentos de back-end, front-end e integração com banco de dados. Sou comprometido, rápido para aprender novas tecnologias e gosto de trabalhar em equipe. Além da formação formal, busco atualização contínua através de cursos online e projetos práticos. Além disso, possuo inglês em nível avançado (EF SET 68/100 – C1) e espanhol intermediário.
 </p>
 
 <h3 align="left">Objetivo Profissional</h3>
