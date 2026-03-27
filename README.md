@@ -35,7 +35,7 @@ Estou em busca de oportunidades em desenvolvimento de software e infraestrutura,
 
 <h3 align="left">Most Used Languages:</h3>
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MottaHub&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MottaHub&theme=radical"/>
 </p>
 
 ---
